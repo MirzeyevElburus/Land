@@ -1,0 +1,1021 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Landab202.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Landab202.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\close.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\close@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\close@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\next.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\next@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\next@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\nivo-lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\nivo-lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\nivo-lightbox\\prev@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\01-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\01-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\02-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\02-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\03-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\03-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\04-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\04-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\05-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\05-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\06-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\06-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\07-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\07-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\07-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\07-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\08-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\08-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\08-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\08-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\09-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\09-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\09-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\09-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\10-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\10-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\10-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\10-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\11-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\11-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\12-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\12-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\portfolio\\12-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\12-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\0d77c43e-8336-42ca-ac0e-e3165a0cfcdefenerbahce-iqyeahks8no59xzo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\0d77c43e-8336-42ca-ac0e-e3165a0cfcdefenerbahce-iqyeahks8no59xzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\2426e189-d8d2-4022-a42f-08f351ff63c9b57ac0da3b04458e96ee5b2ddf38811e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\2426e189-d8d2-4022-a42f-08f351ff63c9b57ac0da3b04458e96ee5b2ddf38811e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\79aad30c-6036-46ff-b5cd-f259e139dc33fenerbahce-iqyeahks8no59xzo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\79aad30c-6036-46ff-b5cd-f259e139dc33fenerbahce-iqyeahks8no59xzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\813e0cda-db9a-457b-b6a7-15cab8ef3d15powerful-team-akatsuki-lp4q7ajbh3c4dubf.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\813e0cda-db9a-457b-b6a7-15cab8ef3d15powerful-team-akatsuki-lp4q7ajbh3c4dubf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\c557339b-73fb-417c-af80-d93822187618fenerbahce-iqyeahks8no59xzo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\c557339b-73fb-417c-af80-d93822187618fenerbahce-iqyeahks8no59xzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\cb09cbac-ec05-4b9e-965b-6281ba3bfaf6Game-Of-Thrones-Season-1-Recap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\cb09cbac-ec05-4b9e-965b-6281ba3bfaf6Game-Of-Thrones-Season-1-Recap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\service-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\service-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\service-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\services\\service-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\jquery.1.11.1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.1.11.1.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\jquery.isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\nivo-lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nivo-lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\assets\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\man\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\css\\style.css",
+      "PackagePath": "staticwebassets\\man\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\documentation\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\documentation\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\man\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\man\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\man\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\man\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\man\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\man\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\man\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\man\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\chart.js",
+      "PackagePath": "staticwebassets\\man\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\man\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\man\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\man\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\man\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\man\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\man\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\man\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\man\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\man\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\man\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\js\\template.js",
+      "PackagePath": "staticwebassets\\man\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\man\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\man\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\man\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\man\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\man\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\man\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\man\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\man\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\man\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\man\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\man\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\man\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\man\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\man\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\man\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\man\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.02\\Desktop\\C#eltun\\Landab202\\wwwroot\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\man\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Landab202.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Landab202.props",
+      "PackagePath": "build\\Landab202.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Landab202.props",
+      "PackagePath": "buildMultiTargeting\\Landab202.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Landab202.props",
+      "PackagePath": "buildTransitive\\Landab202.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
